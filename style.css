@@ -247,12 +247,15 @@ label {
     margin-bottom: 1.6667vh;
 
 }
-.form_container{
+
+.form_container {
     position: relative;
 }
-.form_row{
+
+.form_row {
     height: 98%;
 }
+
 .submit {
     border-radius: 3.4895833333333335vw;
     width: 18.59375vw;
@@ -556,7 +559,7 @@ footer .container .second_row {
         border-radius: 11.2815vw;
         /* background-color: #0749CB; */
         font-size: 3.5vw;
-        
+
         margin-top: 5.5556vh;
         margin-bottom: 10px;
     }
@@ -569,16 +572,19 @@ footer .container .second_row {
         font-weight: 700;
         margin-bottom: 1.7037vh;
     }
+
     .left_banner article {
         line-height: 3.1630vh;
         width: 85vw;
         font-size: 5vw;
         margin-bottom: 2.2037vh;
     }
+
     .right_banner img {
         width: 90.721875vw;
         height: 50.3611vh;
     }
+
     .inside_banner {
         width: 89.479167vw;
         /* height: 21.7593vh; */
@@ -586,12 +592,14 @@ footer .container .second_row {
         border-radius: 1.8229166666666667vw;
         padding: 2.7778vh 2.7604166666666665vw;
     }
+
     .inside_banner h3 {
         font-size: 6.458333vw;
         line-height: 3.8889vh;
         font-weight: 600;
         margin-bottom: 3vh;
     }
+
     .inside_banner div div {
         width: 26.969271vw;
         height: 9.5944vh;
@@ -604,27 +612,34 @@ footer .container .second_row {
         margin-bottom: 2vh;
 
     }
+
     .inside_banner img {
         width: 13.072917vw;
         height: 5.463vh;
     }
-    .inside_banner div div p{
+
+    .inside_banner div div p {
         font-size: 2vw;
     }
-    .product_benifit{
+
+    .product_benifit {
         width: 76.802083vw;
     }
-    .form_area .product_benifit h1{
+
+    .form_area .product_benifit h1 {
         font-size: 7vw;
 
     }
+
     .form_area .product_benifit ul li {
         font-size: 4vw;
     }
+
     .tick {
         width: 5.095833vw;
         margin-right: 1.411667vw;
     }
+
     .form_area .product_benifit button {
         background: #0749CB;
         color: white;
@@ -650,27 +665,126 @@ footer .container .second_row {
         width: 79.583333vw;
         margin-bottom: 2.7778vh;
     }
+
     .form_left article {
         width: 79.333333vw;
         margin-bottom: 2vh;
         font-size: 2.9375vw;
     }
+
     .form_heading {
         font-size: 6.25vw;
     }
+
     .form-control {
         width: 73.59375vw;
         height: 4.8148vh;
         border: 1px solid rgba(0, 0, 0, 0.3);
         border-radius: 11.020833vw;
     }
+
     label {
         font-size: 3.833333vw;
         margin-bottom: 1vh;
     }
-    
+
+    .form_area .row {
+        padding-bottom: 7vh;
+    }
+
+    .submit {
+        width: 88.59375vw;
+        font-size: 3.5vw;
+    }
+
+    .monitor h1 {
+        font-size: 7.291667vw;
+    }
+
+    .monitor p {
+        font-size: 3vw;
+    }
+
+    .flow_chart article {
+        width: 86.770833vw;
+        font-size: 3vw;
+    }
+
+    .triple_block {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .triple_block div {
+
+        width: 83vw;
+        height: 20vh;
+        border-radius: 4vw;
+        margin-bottom: 1vh;
+
+    }
+    .triple_block img {
+        margin-bottom: 1.537vh;
+        margin-top: 0.5556vh;
+        width: 10.291667vw;
+        height: 4.3519vh;
+    }
+    .triple_block h1 {
+        font-size: 3.25vw;
+        font-weight: 700;
+        margin-bottom: 1vh;
+    }
+    .triple_block  div article{
+        font-size: 2vw;
+    }
+    .software_application .row .text h1 {
+        font-size: 7.8125vw;
+        line-height: 4.7593vh;
+    }
+    .software_application .row .text ul {
+        width: 85.208333vw;
+    }
+    .software_application .row .text ul li {
+        font-size: 3vw;
+        line-height: 2.3519vh;
+    }
+    .use_case h1 {
+        font-weight: 700;
+        font-size: 9.8125vw;
+    }
+    .use_case article {
+        line-height: 3.4259vh;
+        margin-bottom: 2vh;
+    }
+    .before_footer h1 {
+        font-weight: 700;
+        font-size: 6vw;
+        line-height: 174.5%;
+        color: white;
+        width: 85.760417vw;
+        margin-bottom: 3.9074vh;
+    }
+    .before_footer p {
+        font-size: 3vw;
+    }
+    .before_footer button {
+        width: 35.520833vw;
+        height: 5.3852vh;
+        background: #0749CB;
+        border: 2px solid #FFFFFF;
+        border-radius: 6.28125vw;
+        margin-bottom: 9.7222vh;
+        font-size: 3vw;
+    }
+    .footer_logo {
+        width: 40vw;
+        height: 5.9407vh;
+    }
+    footer{
+        font-size: 2.5vw;
+    }
+
 
 
 
 }
-
