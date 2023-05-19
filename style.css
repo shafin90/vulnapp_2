@@ -446,7 +446,7 @@ label {
     margin-bottom: 4.9074vh;
 }
 
-.before_footer p{
+.before_footer p {
     margin-bottom: 3.7037vh;
 }
 
@@ -457,7 +457,7 @@ label {
 
     background: #0749CB;
     border: 2px solid #FFFFFF;
-    border-radius:  3.28125vw;
+    border-radius: 3.28125vw;
     margin-bottom: 9.7222vh;
 }
 
@@ -465,52 +465,97 @@ label {
 
 
 /* footer============= */
-footer{
+footer {
     background-color: black;
-  
+
 }
-.first_row{
+
+.first_row {
     padding-top: 4.5370vh;
     padding-bottom: 2.3926vh;
     border-bottom: 1px solid rgba(255, 255, 255, 0.24);
 }
-.footer_logo{
+
+.footer_logo {
     width: 9.98125vw;
     height: 5.9407vh;
 }
-.footer_icon{
+
+.footer_icon {
     display: flex;
     justify-content: end;
-    align-items:  center;
+    align-items: center;
 }
 
-footer{
+footer {
     font-size: 0.7375vw;
     color: ghostwhite;
 }
 
-footer ul{
-    display:  flex;
+footer ul {
+    display: flex;
     justify-content: space-between;
     align-items: center;
 }
-footer ul li{
-    list-style:  none;
+
+footer ul li {
+    list-style: none;
 }
 
-footer .container .second_row{
+footer .container .second_row {
     padding-top: 3.0556vh;
     padding-bottom: 4.4444vh;
 }
-.terms{
+
+.terms {
     padding-right: 30px;
     border-right: 0.5px solid white;
 }
-.footer_icon img{
-    width:  13px;
+
+.footer_icon img {
+    width: 13px;
     height: 13px;
     margin-left: 15px;
 }
-.last_span{
+
+.last_span {
     color: #1DBFFF;
+}
+
+
+
+
+
+
+@media screen and (max-width:575px) {
+    .logo {
+        width: 52.719271vw;
+        height: 6.8991vh;
+    }
+
+    .request_a_demo {
+        background: #0749CB;
+        color: white;
+        border-radius: 8.2815vw;
+        width: 89.522222vw;
+        height: 5.58252vh;
+        font-weight: 500;
+        font-size: 3.5vw;
+    }
+
+    .login {
+
+        width: 89.522222vw;
+        height: 5.58252vh;
+        border-radius: 11.2815vw;
+        background-color: #0749CB;
+        font-size: 3.5vw;
+        color: white;
+        margin-top: 5.5556vh;
+        margin-bottom: 10px;
+    }
+
+
+}
+
 }
